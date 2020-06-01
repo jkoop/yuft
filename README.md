@@ -5,4 +5,4 @@ Yuft is an inventory thing (actually it's more of a thing to keep track of who h
 Left to right: Yuft v0.1.1 on desktop; mobile:
 ![](screenshot.png)
 
-Right now it's terrible, but I'm working on a **huge** update!
+Right now it's terrible, <del>but I'm working on a **huge** update!</del> and this project has been abandoned.
